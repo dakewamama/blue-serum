@@ -1,0 +1,12 @@
+{
+  "name": "blue-serum",
+  "version": "1.0.0",
+  "description": "A framework for Blink detection and Bluetooth interaction",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "dependencies": {
+    "civic-pass": "^1.0.0"
+  }
+}
